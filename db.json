@@ -1,52 +1,92 @@
 {
-  "Posts" :[{
-  		    "id": "1",
-		    "_id": "5e808ea71fd9400dc009031ade8",
-	    	    "Title": "New post, Hello World",
-		    "Description" : "I buy new mobile and beanback from amazon",
-		    "Date": "2020-07-03"
-	    },{
-		    "id": "2",
-		    "_id": "5e808ea71fd9400d00921ad8",
-	    	    "Title": "first published short story",
-		    "Description" : "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
-		    "Date": "2020-07-05"
-	    },{
-		    "id": "3",
-		    "_id": "5e808ea71fdd9400dc00931aad8",
-	    	    "Title": "New post, Hello World",
-		    "Description" : "I buy new mobile and beanback from amazon",
-		    "Date": "2020-07-04"
-	    },{
-		    "id": "4",
-		    "_id": "5e808ea71fd9400dce00951add8",
-		    "Title": "Breece D’J Pancake died",
-		    "Description":"Breece D’J Pancake died when he was 26. He was from West Virginia, and I would label his writing “grit-lit”. This story was almost too gritty for me. He’s the kind of writer that other writers love. His short story collection has a blurb from Joyce Carol Oates.",
-		    "Date": "2020-06-21"
-	    },{
-		    "id": "5",
-		    "_id": "5e808ea71fdd9400dc00931aad8",
-	    	    "Title": "first published short story",
-		    "Description" : "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
-		    "Date": "2020-06-28"
-	    },{
-		    "id": "6",
-		    "_id": "5e808ea71fd9400dc009031ade8",
-	    	    "Title": "THE LOTTERY",
-		    "Description" : "This used to be my favorite short story, and I might only think that because I read it when I was a freshman in high school and I remember being shocked by the ending",
-		    "Date": "2020-06-30"
-	    },{
-		    "id": "7",
-		    "_id": "5e808ea71fd9400d00921ad8",
-	    	    "Title": "Okorafor",
-		    "Description" : "Okorafor is a wonderful storyteller, and if you’ve never read her books, this would be a great place to start. And if you like this short story",
-		    "Date": "2020-07-03"
-	      },{
-		    "id": "8",
-		    "_id": "5e808ea71fd9400dce00951add8",
-	    	    "Title": "first published short story",
-		    "Description" : "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
-		    "Date": "2020-06-02"
-	    }
-      ]
+  "Posts": [
+    {
+      "id": 1,
+      "_id": "5e808ea71fd9400dc009031ade8",
+      "Title": "New post, Hello World",
+      "Description": "I buy new mobile and beanback from amazon",
+      "Date": "2020-07-03",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 2,
+      "_id": "5e808ea71fd9400d00921ad8",
+      "Title": "first published short story",
+      "Description": "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
+      "Date": "2020-07-05",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 3,
+      "_id": "5e808ea71fdd9400dc00931aad8",
+      "Title": "New post, Hello World",
+      "Description": "I buy new mobile and beanback from amazon",
+      "Date": "2020-07-04",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 4,
+      "_id": "5e808ea71fd9400dce00951add8",
+      "Title": "Breece D’J Pancake died",
+      "Description": "Breece D’J Pancake died when he was 26. He was from West Virginia, and I would label his writing “grit-lit”. This story was almost too gritty for me. He’s the kind of writer that other writers love. His short story collection has a blurb from Joyce Carol Oates.",
+      "Date": "2020-06-21",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 5,
+      "_id": "5e808ea71fdd9400dc00931aad8",
+      "Title": "first published short story",
+      "Description": "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
+      "Date": "2020-06-28",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 6,
+      "_id": "5e808ea71fd9400dc009031ade8",
+      "Title": "THE LOTTERY",
+      "Description": "This used to be my favorite short story, and I might only think that because I read it when I was a freshman in high school and I remember being shocked by the ending",
+      "Date": "2020-06-30",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 7,
+      "_id": "5e808ea71fd9400d00921ad8",
+      "Title": "Okorafor",
+      "Description": "Okorafor is a wonderful storyteller, and if you’ve never read her books, this would be a great place to start. And if you like this short story",
+      "Date": "2020-07-03",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    },
+    {
+      "id": 8,
+      "_id": "5e808ea71fd9400dce00951add8",
+      "Title": "first published short story",
+      "Description": "This was Anthony Marra’s first published short story, and works as an outline for his novel A Constellation of Vital Phenomenon.",
+      "Date": "2020-06-02",
+      "Region": {
+        "latitude": 30.05968339825648,
+        "longitude": 31.3311012648046
+      }
+    }
+  ]
 }
