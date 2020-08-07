@@ -134,7 +134,7 @@
       "Photo": "https://source.unsplash.com/1024x768/?tree"
     }
   ],
-  "data": [
+  "ServiceProvider": [
         {
             "_id": "5e808ea71fd9400dc009031ad8",
             "Name": "Orient Takaful",
@@ -163,5 +163,147 @@
             "ServiceAddress": "العمرانية الغربية، قسم العمرانية، الجيزة",
             "Photo": "https://source.unsplash.com/1024x768/?tree"
         }
-    ] 
+    ],
+  "PromoCodes": [{
+			"id": 1,
+			"brand": "ZARA",
+			"type": "online",
+			"Categories": "clothes",
+			"latitude": 10.950503,
+			"longitude": 31.345158,
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://www.brandknewmag.com/wp-content/uploads/2019/02/brand-368.jpg",
+			"code": "123ACB",
+			"validFrom": "01/03/2020",
+			"validTo": "15/03/2020"
+		},
+		{
+			"id": 2,
+			"brand": "LC Wikiki",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"Categories": "Shoes",
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://www.brandknewmag.com/wp-content/uploads/2019/02/brand-368.jpg",
+			"code": "78LKM",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 3,
+			"brand": "LC Wikiki",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "47JUtY",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 4,
+			"brand": "LC Wikiki",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 5,
+			"brand": "LC Wikiki",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 6,
+			"brand": "LC Wikiki",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 7,
+			"brand": "LC Wikiki",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"Categories": "SuperMarket",
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://www.brandknewmag.com/wp-content/uploads/2019/02/brand-368.jpg",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 8,
+			"brand": "LC Wikiki",
+			"type": "inDoor",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 9,
+			"brand": "LC Wikiki",
+			"Categories": "Shoes",
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}, {
+			"id": 10,
+			"latitude": 29.9746138,
+			"longitude": 31.2828062,
+
+			"brand": "LC Wikiki",
+			"Categories": "SuperMarket",
+			"type": "inDoor",
+			"discountPercentage": 25,
+			"description": "This propo code provide 25% disc",
+			"photo": "https://pngimage.net/wp-content/uploads/2018/06/50-discount-png-2.png",
+			"code": "FG697O",
+			"validFrom": "03/03/2020",
+			"validTo": "10/03/2020"
+		}
+	]
 }
