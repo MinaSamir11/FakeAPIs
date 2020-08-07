@@ -95,5 +95,43 @@
       "idpost": "dummy",
       "iduser": "dummy"
     }
+  ],
+  "Users": [
+    {
+      "id": "5e808ea71fd9400dc009031ade8",
+      "Name": "Mina samir shafik gendi",
+      "Phone": "01247372323",
+      "Email": "menasamer11@gmail.com",
+      "Password": "Mm015015",
+      "Age": 26,
+      "Photo": "https://source.unsplash.com/1024x768/?nature"
+    },
+    {
+      "id": "5e808ea71fd9400d00921ad8",
+      "Name": "Mina Halim",
+      "Phone": "0111257788",
+      "Email": "MinaHalim@gmail.com",
+      "Password": "Mm015015",
+      "Age": 32,
+      "Photo": "https://source.unsplash.com/1024x768/?tree"
+    },
+    {
+      "id": "5e808ea71fdd9400dc00931aad8",
+      "Name": "Mina sedrak",
+      "Phone": "01552004487",
+      "Email": "MinaSedrak@gmail.com",
+      "Password": "Mm015015",
+      "Age": 27,
+      "Photo": "https://source.unsplash.com/1024x768/?nature"
+    },
+    {
+      "id": "5e808ea71fd9400dce00951add8",
+      "Name": "Ereny Essam",
+      "Phone": "0111588999",
+      "Email": "Ereny@gmail.com",
+      "Password": "Mm015015",
+      "Age": 28,
+      "Photo": "https://source.unsplash.com/1024x768/?tree"
+    }
   ]
 }
