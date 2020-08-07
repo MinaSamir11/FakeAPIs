@@ -88,5 +88,12 @@
         "longitude": 31.3311012648046
       }
     }
+  ],
+   "Favourites": [
+    {
+      "id": 1,
+      "idpost": "dummy",
+      "iduser": "dummy"
+    }
   ]
 }
