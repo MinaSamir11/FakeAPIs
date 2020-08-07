@@ -133,5 +133,35 @@
       "Age": 28,
       "Photo": "https://source.unsplash.com/1024x768/?tree"
     }
-  ]
+  ],
+  "data": [
+        {
+            "_id": "5e808ea71fd9400dc009031ad8",
+            "Name": "Orient Takaful",
+            "Phone": "0122554889",
+            "ServiceAddress": "Zahraa El maadi, Sector 7, No 18.، Cairo، محافظة القاهرة‬ 11435",
+            "Photo": "https://source.unsplash.com/1024x768/?nature"
+        },
+        {
+           "_id": "5e808ea71fd9400dc00921ad8",
+            "Name": "Orient Takaful",
+            "Phone": "0111257788",
+            "ServiceAddress": "شارع المستشار حسام - المعراج خلف بنزينة امارات مصر بجوار كارفور المعادى, Ring Rd, El Basatin, Cairo Governorate",
+            "Photo": "https://source.unsplash.com/1024x768/?tree"
+        },
+             {
+            "_id": "5e808ea71fdd9400dc00931ad8",
+            "Name": "Orient Takaful",
+            "Phone": "01552004487",
+            "ServiceAddress": "محمد خطاب، بولاق الدكرور، الجيزة",
+            "Photo": "https://source.unsplash.com/1024x768/?nature"
+        },
+        {
+           "_id": "5e808ea71fd9400dce00951ad8",
+            "Name": "Wilies",
+            "Phone": "0111588999",
+            "ServiceAddress": "العمرانية الغربية، قسم العمرانية، الجيزة",
+            "Photo": "https://source.unsplash.com/1024x768/?tree"
+        }
+    ] 
 }
